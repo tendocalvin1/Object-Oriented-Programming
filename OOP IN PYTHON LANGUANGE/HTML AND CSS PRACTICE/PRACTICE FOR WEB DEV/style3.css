@@ -1,0 +1,23 @@
+body{
+    /* difference between margin and border; Margin is the space around an element while padding is the space between the content and the page border.*/
+    margin: 20px;
+}
+
+
+#box1{
+    border:5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background-color: chocolate;
+    margin-right:50%;
+    margin-left: 50%;
+}
+
+#box2{
+    border:5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background-color: rgb(61, 60, 114);
+}

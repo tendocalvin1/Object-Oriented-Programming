@@ -1,0 +1,41 @@
+body{
+    /* background-color:linear-gradient(to left, rgb(228, 235, 135), rgb(119, 84, 163));
+    background-repeat:no-repeat;
+    background-attachment:fixed; */
+    background-image: url("KHARI BARBIE.jpg");
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size: cover; /*This is used to adjust the image according to the device being used.*/
+    /*NB: You can set a back ground as a cover or as a linear gradient.*/
+}
+h1{
+    background-color:linear-gradient(to left, rgb(228, 235, 135), rgb(119, 84, 163));
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+p{
+    background-color: grey;
+    color:whitesmoke; 
+    border-style:outset;
+    border-width: 10px;
+    border-color: gold;
+    padding: 10px;  
+}
+
+
+.odd{
+    color: red;
+    font-family: "consolas",sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration:  cyan dotted underline;
+    font-size: 20px;
+}
+.even{
+    color: black;
+    font-family: "consolas",sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration:  cyan dotted underline;
+    font-size: 20px;
+}

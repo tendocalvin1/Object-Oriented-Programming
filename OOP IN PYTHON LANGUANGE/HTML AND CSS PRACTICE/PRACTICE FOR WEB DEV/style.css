@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(255, 127, 187);
+}
+p{
+    background-color: grey;
+    color:whitesmoke   
+}
+
+.odd{
+    color: red;
+}
+.even{
+    color: black;
+}
